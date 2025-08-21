@@ -41,7 +41,7 @@ It demonstrates how to set up a Django project, create models, render data dynam
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/fruitmart.git
+git clone https://github.com/smantha28/FruitMart.git
 cd fruitmart
 ```
 ### 2. Create Virtual Environment
